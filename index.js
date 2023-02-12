@@ -20,3 +20,5 @@ console.log(location);
 console.log(skills);
 console.log(favouriteColor)
 console.log(independence)
+
+console.log('my name is ' + firstName, 'and i am a ' + profession + ',' + ' I live in ' + location + '.' + ' One of my skills is ' + skills + ' and my favourite color is ' + favouriteColor + '.' + 'The independence day for Nigeria is ' + independence)
